@@ -1,8 +1,8 @@
 {
-  "aihe": "Projektipalaveri",
-  "osallistujien_lkm": 4,
+"aihe": "Projektipalaveri",
+  "lukumaara": 4,
   "osallistujat": ["Fiona", "Mikko", "Sara", "Joonas"],
   "paikka": "Teams",
   "alkaminen": "2025-03-12 10:00",
-  "kesto_min": 45
+  "kesto": "45 min"
 }
